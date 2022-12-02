@@ -12,7 +12,7 @@ Backpropagation algorithm for a simple neural network, applied to the MNIST data
 ## ex5
 Regularised linear regression and bias vs variance.
 ## ex6 
-Appliation of support vector machines to build a spam classifier.
+Application of support vector machines to build a spam classifier.
 ## ex7
 The K-means clustering algorithm applied to compress an image. And principal component analysis to find a low-dimensional representation of face images.
 ## ex8
