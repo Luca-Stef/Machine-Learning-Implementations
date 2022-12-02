@@ -6,7 +6,7 @@ An implementation of the linear regression learning algorithm.
 ## ex2
 The regularised logistic regression learning algorithm.
 ## ex3
-The one-vs-all logistic regression algorithm and the forward propagation and predicction algorithm for a simpleneural network.
+The one-vs-all logistic regression algorithm and the forward propagation and prediction algorithm for a simple neural network.
 ## ex4
 Backpropagation algorithm for a simple neural network, applied to the MNIST dataset.
 ## ex5
