@@ -7,13 +7,13 @@ An implementation of the linear regression learning algorithm.
 The regularised logistic regression learning algorithm.
 ## ex3
 The one-vs-all logistic regression algorithm and the forward propagation and predicction algorithm for a simpleneural network.
-### ex4
+## ex4
 Backpropagation algorithm for a simple neural network, applied to the MNIST dataset.
-### ex5
+## ex5
 Regularised linear regression and bias vs variance.
-### ex6 
+## ex6 
 Appliation of support vector machines to build a spam classifier.
-### ex7
+## ex7
 The K-means clustering algorithm applied to compress an image. And principal component analysis to find a low-dimensional representation of face images.
-### ex8
+## ex8
 Anomaly detection algorithm for failing servers on a network and collaborative filtering for a movie recommender system.
